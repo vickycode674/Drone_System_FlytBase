@@ -216,14 +216,6 @@ npm start
 
 ## 📸 Screenshots / Diagrams
 
-Would you like me to generate and include the following?
-
-* 📊 System Design Diagram
-* 🗺️ Leaflet UI Screenshot Sample
-* 🔌 WebSocket Interaction Flow
-* 🧭 Live Monitoring Page (Mock layout)
-
-Let me know, and I’ll create or fetch visuals to embed here.
 
 ---
 
