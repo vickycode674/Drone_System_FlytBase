@@ -1,5 +1,3 @@
----
-
 # 🛰️ Drone Mission Control System
 
 A full-stack web application for drone mission planning, live monitoring, and report generation using **React.js**, **Node.js/Express**, **MongoDB**, and **Socket.IO**.
